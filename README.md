@@ -1,4 +1,10 @@
-nod-webcam-photo
+WebCam Photos via Node
 ================
 
-capture photos from a webcam via node
+This beta has only barely been started on linux.
+
+It currently uses the fswebcam commandline interface.
+
+---
+### Requirements
+sudo apt-get install fswebcam
