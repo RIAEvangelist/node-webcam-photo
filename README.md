@@ -11,4 +11,4 @@ sudo apt-get install fswebcam
 
 ---
 ### Latest commit photo
-[Latest node webcam photo from commit](https://raw.githubusercontent.com/RIAEvangelist/node-webcam-photo/master/0.jpg)
+![Latest node webcam photo from commit](https://raw.githubusercontent.com/RIAEvangelist/node-webcam-photo/master/0.jpg)
