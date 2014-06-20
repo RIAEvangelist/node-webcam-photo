@@ -9,7 +9,7 @@ cmd.run(
 function realTime(){
 	var command='fswebcam 1.jpg -r '+
 		(Math.random()*200*10 | 0)
-	//console.log(command)
+	console.log(command)
 	cmd.run(
 		command
 	);
